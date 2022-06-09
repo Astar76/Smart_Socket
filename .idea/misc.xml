@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/SmartSocket/app/src/main/res/drawable/ic_scanner_search.xml" value="0.1125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SmartSocket/app/src/main/res/drawable/ic_scanner_stop.xml" value="0.1125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SmartSocket/app/src/main/res/layout/activity_main.xml" value="0.12284701114488349" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SmartSocket/app/src/main/res/layout/dialog_timer.xml" value="0.2515625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SmartSocket/app/src/main/res/layout/empty_item.xml" value="0.2515625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SmartSocket/app/src/main/res/layout/fragment_control.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SmartSocket/app/src/main/res/layout/fragment_devices.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SmartSocket/app/src/main/res/layout/item_device.xml" value="0.20726495726495728" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SmartSocket/app/src/main/res/layout/no_result.xml" value="0.20726495726495728" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SmartSocket/app/src/main/res/layout/progress.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SmartSocket/app/src/main/res/layout/scanning.xml" value="0.2515625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SmartSocket/app/src/main/res/layout/scanning_progress.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

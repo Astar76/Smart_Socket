@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ui.control.ControlFragment">
+
+    <TextView
+        android:id="@+id/display_time_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:layout_gravity="center"
+        android:gravity="center_horizontal"
+        android:textColor="@android:color/black"
+        android:textAppearance="@style/TextAppearance.MaterialComponents.Headline3"
+        tools:text="00:00:00" />
+
+    <Button
+        android:id="@+id/set_timer_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start|bottom"
+        android:layout_margin="16dp"
+        android:text="@string/set_timer" />
+
+    <Button
+        android:id="@+id/start_timer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end|bottom"
+        android:layout_margin="16dp"
+        android:text="@string/start_timer" />
+
+</FrameLayout>
